@@ -5,23 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Sistema Login</title>
-        
-        <style>
-            body {
-                display: flex;
-                justify-content: center;
-            }
-
-            form {
-                display: flex;
-                flex-direction: column;
-                width: 300px;
-            }
-
-            form>input {
-                margin-bottom: 20px;
-            }
-        </style>
+        <link rel="stylesheet" type="text/css" href="./css/index.css" />
     </head>
 
     <body>
@@ -38,7 +22,7 @@
             <input type="password" name="password" id="password" placeholder="Inerire la password" required />
         
             <input type="submit" value="Invia" />
-            <p>Hai già un account? <a href="login.html">Accedi</a></p>
+            <p>Hai già un account?<br/><a href="login.html">Accedi</a></p>
         </form>
     </body>
 </html>
