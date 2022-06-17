@@ -13,10 +13,10 @@
             <h2>Registrati</h2>
             
             <label for="email">Email</label>
-            <input type="email" name="email" id="email" placeholder="Inerire la tua email" required />
+            <input type="email" name="email" id="email" placeholder="Inserire la tua email" required />
             
             <label for="username">Username</label>
-            <input type="text" name="username" id="username" placeholder="Inerire la tua username" required />
+            <input type="text" name="username" id="username" placeholder="Inserire la tua username" required />
             
             <label for="password">Password</label>
             <input type="password" name="password" id="password" placeholder="Inerire la password" required />
